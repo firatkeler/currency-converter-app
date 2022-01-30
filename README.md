@@ -1,3 +1,5 @@
+clone the repository
+
 install node modules with the command below
 
 npm install
