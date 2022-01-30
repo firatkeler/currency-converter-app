@@ -1,16 +1,11 @@
 .App {
+  margin: 50px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.heading{
+  font-family: 'Pacifico', cursive;
+  font-size: 35px;
 }
 
 .App-header {
